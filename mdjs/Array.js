@@ -184,6 +184,3 @@ class Arr
 if (typeof module !== "undefined" && typeof module.exports !== "undefined") {
   module.exports = Arr;
 }
-else if (typeof export !== "undefined") {
-  export default Arr;
-}
